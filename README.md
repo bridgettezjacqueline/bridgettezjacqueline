@@ -28,10 +28,10 @@ Hi, I'm Jacqueline. I'm teaching myself to code.
   
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data journalism. 
+- 🌱 I’m currently learning the basics of Python and JS. 
+- 💞️ I’m looking to collaborate on ... not sure yet!
+
 
 
 
