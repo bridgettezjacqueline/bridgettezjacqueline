@@ -30,7 +30,7 @@ Hi, I'm Jacqueline. I'm teaching myself to code.
 
 - 👀 I’m interested in how data supports and informs journalism. 
 - 🌱 I’m currently learning the basics of Python and JS. 
-- 💞️ I’m looking to collaborate on ... not sure yet! But if you jnow of any resources that could help me learn, please share!
+- 💞️ I’m looking to collaborate on ... not sure yet! But if you know of any resources that could help me learn, please share!
 - 📫 I can be reached at jacqueline.mccrief@gmail.com
 
 
