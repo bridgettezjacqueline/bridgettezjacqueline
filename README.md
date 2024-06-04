@@ -11,13 +11,13 @@
 Hi, I'm Jacqueline. I'm teaching myself to code.
 
 <details>
-<summary>My top scents</summary>
+<summary>A few of my favorite things</summary>
 
-  | Rank | Favorite Scents |
+  | Rank | 3 Current Favorite Things |
 |-----:|---------------|
-|     1| Patchouli              |
-|     2| Petrichor               |
-|     3| Anise               |
+|     1| Horology              |
+|     2| Documenting the cishet male mid life crisis at 55              |
+|     3| Conch salad               |
 
 </details>
 
@@ -28,7 +28,7 @@ Hi, I'm Jacqueline. I'm teaching myself to code.
   
 
 
-- 👀 I’m interested in how data supports and informs journalism. 
+- 👀 I’m interested in how data supports and informs journalism, especially the visualizations that can be created. 
 - 🌱 I’m currently learning the basics of Python and JS. 
 - 💞️ I’m looking to collaborate on ... not sure yet! But if you know of any resources that could help me learn, please share!
 - 📫 I can be reached at jacqueline.mccrief@gmail.com
