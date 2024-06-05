@@ -28,7 +28,7 @@ Hi, I'm Jacqueline. I'm teaching myself to code so I can make cool visualization
   
 
 
-- 👀 I’m interested in how data supports and informs journalism, especially the visualizations that can be created. 
+- 👀 I’m interested in creating data visualizations to support my journalism and storytelling.
 - 🌱 I’m currently learning the basics of Python and Tableau. 
 - 💞️ I’m looking to collaborate on ... not sure yet! But if you know of any resources that could help me learn, please share!
 - 📫 I can be reached at jacqueline.mccrief@gmail.com
