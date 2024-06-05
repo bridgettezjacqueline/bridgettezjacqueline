@@ -8,7 +8,7 @@
 
 <!-- TO DO: Add more information to the about me section with emojis -->
 
-Hi, I'm Jacqueline. I'm teaching myself to code.
+Hi, I'm Jacqueline. I'm teaching myself to code so I can make cool visualizations.
 
 <details>
 <summary>A few of my favorite things</summary>
@@ -16,8 +16,8 @@ Hi, I'm Jacqueline. I'm teaching myself to code.
   | Rank | 3 Current Favorite Things |
 |-----:|---------------|
 |     1| Horology              |
-|     2| Documenting the cishet male mid life crisis at 55              |
-|     3| Conch salad               |
+|     2| Documenting my friends in candid moments             |
+|     3| Park hangs               |
 
 </details>
 
@@ -29,7 +29,7 @@ Hi, I'm Jacqueline. I'm teaching myself to code.
 
 
 - 👀 I’m interested in how data supports and informs journalism, especially the visualizations that can be created. 
-- 🌱 I’m currently learning the basics of Python and JS. 
+- 🌱 I’m currently learning the basics of Python and Tableau. 
 - 💞️ I’m looking to collaborate on ... not sure yet! But if you know of any resources that could help me learn, please share!
 - 📫 I can be reached at jacqueline.mccrief@gmail.com
 
